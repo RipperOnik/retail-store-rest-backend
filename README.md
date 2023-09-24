@@ -1,4 +1,4 @@
-# retail store
+# Retail Store
 ## Description
 This is an online post platform. View the deployed app here https://ripperonik.github.io/retail-store-rest-frontend
 ## Features
